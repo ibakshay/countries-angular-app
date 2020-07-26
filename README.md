@@ -1,5 +1,7 @@
 # Frontend Mentor - REST Countries API with color theme switcher
 
+## This angular app is deployed on Firebase and you an reach out to this app with this Url https://countries-21478.web.app/
+
 ![Design preview for the REST Countries API with color theme switcher coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
